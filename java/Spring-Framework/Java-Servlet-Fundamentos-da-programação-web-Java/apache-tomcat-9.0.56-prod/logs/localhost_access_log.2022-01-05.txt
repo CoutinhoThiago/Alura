@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [05/Jan/2022:10:29:21 -0300] "GET /gerenciador/formNovaEmpresa.jsp HTTP/1.1" 200 371
+0:0:0:0:0:0:0:1 - - [05/Jan/2022:10:29:31 -0300] "GET /gerenciador/formNovaEmpresa.jsp HTTP/1.1" 200 371
+0:0:0:0:0:0:0:1 - - [05/Jan/2022:10:29:39 -0300] "POST /gerenciador/novaEmpresa HTTP/1.1" 500 1720
+0:0:0:0:0:0:0:1 - - [05/Jan/2022:10:29:46 -0300] "POST /gerenciador/novaEmpresa HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [05/Jan/2022:10:29:46 -0300] "GET /gerenciador/listaEmpresas HTTP/1.1" 200 966
+0:0:0:0:0:0:0:1 - - [05/Jan/2022:10:29:48 -0300] "GET /gerenciador/mostrarEmpresa?id=2 HTTP/1.1" 200 458
+0:0:0:0:0:0:0:1 - - [05/Jan/2022:10:29:50 -0300] "POST /gerenciador/alteraEmpresa HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [05/Jan/2022:10:29:50 -0300] "GET /gerenciador/listaEmpresas HTTP/1.1" 200 968
+0:0:0:0:0:0:0:1 - - [05/Jan/2022:10:29:54 -0300] "GET /gerenciador/removeEmpresa?id=2 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [05/Jan/2022:10:29:54 -0300] "GET /gerenciador/listaEmpresas HTTP/1.1" 200 720
+0:0:0:0:0:0:0:1 - - [05/Jan/2022:10:29:56 -0300] "GET /gerenciador/removeEmpresa?id=0 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [05/Jan/2022:10:29:56 -0300] "GET /gerenciador/listaEmpresas HTTP/1.1" 200 473
+0:0:0:0:0:0:0:1 - - [05/Jan/2022:10:29:56 -0300] "GET /gerenciador/removeEmpresa?id=3 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [05/Jan/2022:10:29:56 -0300] "GET /gerenciador/listaEmpresas HTTP/1.1" 200 227
