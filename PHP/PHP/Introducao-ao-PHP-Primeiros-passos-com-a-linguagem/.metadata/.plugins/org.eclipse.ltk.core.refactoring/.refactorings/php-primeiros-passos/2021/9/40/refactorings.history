@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;tabuada.php&apos; to &apos;desafios&apos;" description="Move &apos;tabuada.php&apos; to &apos;desafios&apos;" destination="desafios" element1="tabuada.php" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1633001839116" updateReferences="true"/>
+</session>
