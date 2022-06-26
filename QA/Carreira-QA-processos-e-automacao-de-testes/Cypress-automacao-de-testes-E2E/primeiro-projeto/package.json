@@ -1,0 +1,14 @@
+{
+  "name": "primeiro-projeto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiago Coutinho Sousa Silva",
+  "license": "ISC",
+  "devDependencies": {
+    "mochawesome": "^7.1.3"
+  }
+}
