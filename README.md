@@ -1,8 +1,8 @@
 <h1 align="center"> Alura </h1>
 
 ## Meus cursos
-###[](Android/Android/Android-parte-1-Crie -a-sua-primeira-app-mobile)
-###[](Android/Android/Android-parte-2-Avançando-com-listeners-menu-e-UI/Agenda)
+###[Crie a sua primeira app mobile](Android/Android/Android-parte-1-Crie -a-sua-primeira-app-mobile)
+###[Android parte 2 Avançando com listeners menu e UI](Android/Android/Android-parte-2-Avançando-com-listeners-menu-e-UI)
 
 ###[](CSharp/CSharp-e-orientacao-a-objetos/CSharp-parte-1-Primeiros-passos)
 ###[](CSharp/CSharp-e-orientacao-a-objetos/CSharp-parte-2-Introdução-à-Orientação-a-Objetos)
@@ -18,35 +18,35 @@
 ###[](Carreira-QA-processos-e-automacao-de-testes/Quality-Assurance-plano-de-testes-e-gestao-de-bugs)
 
 
-###[](java/Arquitetura-e-Design-de-Projetos-Java/BDD-e-Java-Behavior-Driven-Development-com-Cucumber/leilao)
-###[](java/Arquitetura-e-Design-de-Projetos-Java/Design-Patterns-em-Java-I-Introdução-as-boas-praticas-de-programacao/loja)
-###[](java/Arquitetura-e-Design-de-Projetos-Java/Design-Patterns-em-Java-II-Avançando-nas-boas-práticas-de-programação/loja)
-###[](java/Arquitetura-e-Design-de-Projetos-Java/SOLID-com-Java-Princípios-da-programação-orientada-a-objetos/rh)
-###[](java/Arquitetura-e-Design-de-Projetos-Java/Selenium-Testes-automatizados-de-aceitacao-em-Java/leilao)
+###[](java/Arquitetura-e-Design-de-Projetos-Java/BDD-e-Java-Behavior-Driven-Development-com-Cucumber)
+###[](java/Arquitetura-e-Design-de-Projetos-Java/Design-Patterns-em-Java-I-Introdução-as-boas-praticas-de-programacao)
+###[](java/Arquitetura-e-Design-de-Projetos-Java/Design-Patterns-em-Java-II-Avançando-nas-boas-práticas-de-programação)
+###[](java/Arquitetura-e-Design-de-Projetos-Java/SOLID-com-Java-Princípios-da-programação-orientada-a-objetos)
+###[](java/Arquitetura-e-Design-de-Projetos-Java/Selenium-Testes-automatizados-de-aceitacao-em-Java)
 ###[](java/Arquitetura-e-Design-de-Projetos-Java/TDD-e-Java-Testes-automatizados-com-JUnit)
 
-###[](java/Java-e-Orientacao-a-Objetos/Java-Collections-Dominando-Listas-Sets-e-Mapas/gerenciador-de-cursos)
-###[](java/Java-e-Orientacao-a-Objetos/Java-Excecoes-Aprenda a criar-lançar-e-controlar-excecoes/java-pilha)
-###[](java/Java-e-Orientacao-a-Objetos/Java-JRE-e-JDK-Escreva-o-seu-primeiro-codigo-com-Eclipse)
-###[](java/Java-e-Orientacao-a-Objetos/Java-OO-Introducao-a-Orientacao-a-Objetos/bytebank)
-###[](java/Java-e-Orientacao-a-Objetos/Java-Polimorfismo-Entenda-heranca-e-interfaces)
-###[](java/Java-e-Orientacao-a-Objetos/Java-e-java.io-Streams-Reader-e-Writers/java-io)
-###[](java/Java-e-Orientacao-a-Objetos/Java-e-java.lang-Programe-com-a-classe-Object-e-String/bytebank-herdado-conta)
-###[](java/Java-e-Orientacao-a-Objetos/Java-e-java.util-Coleções-Wrappers-e-Lambda-expressions/bytebank-herdado-conta)
-###[](java/Java-e-Orientacao-a-Objetos/Java-moderno-Tire-proveito-dos-novos-recursos-do-Java-8/Java8)
-###[](java/Java-e-Orientacao-a-Objetos/O-que-sao-Enums-no-Java/AM_enum)
-###[](java/Java-e-Orientacao-a-Objetos/TDD-e-Java-Testes-automatizados-com-JUnit)
+###[Java Collections Dominando Listas Sets e Mapas](java/Java-e-Orientacao-a-Objetos/Java-Collections-Dominando-Listas-Sets-e-Mapas)
+###[Java Excecoes Aprenda a criar lançar e controlar- excecoes](java/Java-e-Orientacao-a-Objetos/Java-Excecoes-Aprenda a criar-lançar-e-controlar-excecoes)
+###[Java JRE e JDK-Escreva o seu primeiro codigo com Eclipse](java/Java-e-Orientacao-a-Objetos/Java-JRE-e-JDK-Escreva-o-seu-primeiro-codigo-com-Eclipse)
+###[Java OO Introducao a Orientacao a Objetos](java/Java-e-Orientacao-a-Objetos/Java-OO-Introducao-a-Orientacao-a-Objetos)
+###[Java Polimorfismo Entenda-heranca e interfaces](java/Java-e-Orientacao-a-Objetos/Java-Polimorfismo-Entenda-heranca-e-interfaces)
+###[Java e java.io Streams Reader e Writers](java/Java-e-Orientacao-a-Objetos/Java-e-java.io-Streams-Reader-e-Writers)
+###[Java e java.lang Programe com a classe Object e String](java/Java-e-Orientacao-a-Objetos/Java-e-java.lang-Programe-com-a-classe-Object-e-String)
+###[Java e java.util Coleções Wrappers e Lambda expressions](java/Java-e-Orientacao-a-Objetos/Java-e-java.util-Coleções-Wrappers-e-Lambda-expressions)
+###[Java moderno Tire proveito dos novos recursos do Java 8](java/Java-e-Orientacao-a-Objetos/Java-moderno-Tire-proveito-dos-novos-recursos-do-Java-8)
+###[O que são Enums no Java](java/Java-e-Orientacao-a-Objetos/O-que-sao-Enums-no-Java)
+###[TDD e Java Testes automatizados com JUnit](java/Java-e-Orientacao-a-Objetos/TDD-e-Java-Testes-automatizados-com-JUnit)
 
-###(java/Spring-Framework/Java-Servlet-Fundamentos-da-programação-web-Java)
+###[Java Servlet Fundamentos da programação web Java](java/Spring-Framework/Java-Servlet-Fundamentos-da-programação-web-Java)
 
 
 ## Minhas formações
-###[](Android/Android)
-###[](CSharp/CSharp-e-orientacao-a-objetos)
-###[](JavaScript/Node.js-com-Express)
-###[](PHP/PHP)
-###[](Carreira-QA-processos-e-automacao-de-testes)
-###[](java/Arquitetura-e-Design-de-Projetos-Java)
-###[](java/Java-e-Orientacao-a-Objetos)
-###[](java/Spring-Framework)
+###[Android](Android/Android)
+###[CSharp e orientacao a objetos](CSharp/CSharp-e-orientacao-a-objetos)
+###[Node.js com Express](JavaScript/Node.js-com-Express)
+###[PHP](PHP/PHP)
+###[Carreira QA processos e automacao de testes](Carreira-QA-processos-e-automacao-de-testes)
+###[Arquitetura e Design de Projetos Java](java/Arquitetura-e-Design-de-Projetos-Java)
+###[Java e Orientacao a Objetos](java/Java-e-Orientacao-a-Objetos)
+###[Spring Framework](java/Spring-Framework)
 
