@@ -2,10 +2,10 @@
 
 ## Meus cursos
 #### [Crie a sua primeira app mobile](Android/Android/Android-parte-1-Crie-a-sua-primeira-app-mobile)
-- [Android parte 2 Avançando com listeners menu e UI](Android/Android/Android-parte-2-Avançando-com-listeners-menu-e-UI)
+#### [Android parte 2 Avançando com listeners menu e UI](Android/Android/Android-parte-2-Avançando-com-listeners-menu-e-UI)
 
-- [CSharp parte 1 Primeiros passos](CSharp/CSharp-e-orientacao-a-objetos/CSharp-parte-1-Primeiros-passos)
-- [CSharp parte 2 Introdução à Orientação a Objetos](CSharp/CSharp-e-orientacao-a-objetos/CSharp-parte-2-Introdução-à-Orientação-a-Objetos)
+##### [CSharp parte 1 Primeiros passos](CSharp/CSharp-e-orientacao-a-objetos/CSharp-parte-1-Primeiros-passos)
+##### [CSharp parte 2 Introdução à Orientação a Objetos](CSharp/CSharp-e-orientacao-a-objetos/CSharp-parte-2-Introdução-à-Orientação-a-Objetos)
 - [CSharp parte 3 Entendendo herança e interface](CSharp/CSharp-e-orientacao-a-objetos/CSharp-parte-3-Entendendo-herança-e-interface)
 
 - [JavaScript para back end](JavaScript/Node.js-com-Express/JavaScript-para-back-end)
