@@ -1,4 +1,4 @@
-#Alura (align="center")
+#Alura
 
 ## Meus cursos
 ###[Crie a sua primeira app mobile](Android/Android/Android-parte-1-Crie -a-sua-primeira-app-mobile)
