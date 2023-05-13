@@ -1,5 +1,7 @@
 # Alura
 
+<br>
+
 ## Meus cursos
 #### [Crie a sua primeira app mobile](Android/Android/Android-parte-1-Crie-a-sua-primeira-app-mobile)
 #### [Android parte 2 Avançando com listeners menu e UI](Android/Android/Android-parte-2-Avançando-com-listeners-menu-e-UI)
@@ -39,7 +41,7 @@
 
 #### [Java Servlet Fundamentos da programação web Java](java/Spring-Framework/Java-Servlet-Fundamentos-da-programação-web-Java)
 
-//
+<br>
 
 ## Minhas formações
 #### [Android](Android/Android)
